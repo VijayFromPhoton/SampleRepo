@@ -259,7 +259,7 @@
 				INFOPLIST_FILE = MySwiftProj/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.CocaPods.MySwiftProj;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mdlive.providermobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "2e3c8f59-fff8-44be-981c-c61af5bca2c4";
 			};
@@ -273,7 +273,7 @@
 				INFOPLIST_FILE = MySwiftProj/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.CocaPods.MySwiftProj;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mdlive.providermobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "2e3c8f59-fff8-44be-981c-c61af5bca2c4";
 			};
